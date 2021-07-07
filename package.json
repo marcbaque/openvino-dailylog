@@ -26,7 +26,7 @@
     "@ngx-translate/core": "^12.1.2",
     "@ngx-translate/http-loader": "^4.0.0",
     "bootstrap": "^4.5.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "eva-icons": "^1.1.3",
     "rxjs": "^6.5.5",
     "tslib": "^1.13.0",
